@@ -1,8 +1,11 @@
-# React + Vite
+# Nick's Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi, everyone I welcome you all to my Github repo explore my work and get in touch.
 
-Currently, two official plugins are available:
+The project is created with 3-D Animation with following Three.js Libraries:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [https://vitejs.dev/](https://vitejs.dev/) uses to create the project with vite@latest -- --template-react
+
+- [https://threejs.org/](https://threejs.org/) uses [@react-three/fiber] & [@react-three/drei]
+
+- [https://tailwindcss.com/](https://tailwindcss.com/)
